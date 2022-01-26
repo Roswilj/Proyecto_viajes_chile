@@ -1,0 +1,65 @@
+body {
+    font-family: "Raleway", "Open Sans";
+    color:white;
+    background-color: black;
+   
+   }
+
+.navbar {
+    background-color: transparent !important;
+    color:white;
+}
+
+.bg-solid{
+    background-color: #16a2b7;
+    transition: all 2s ease;
+}
+
+.h1{
+    font-family: "Raleway";
+    font-size: 400;
+}
+
+.container_header{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.carousel-item {
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.fa-iconos{
+    font-size: 2em;
+    color: #fff;
+}
+
+.sectionbody1
+{  background-color: #16a2b7;  
+  padding:0;
+}
+
+.sectioncard1
+{
+  background-color: black;
+}
+
+.sectionbody
+{  
+  background-color: black;
+  color:white;
+  padding:0;
+  margin:0;
+  text-align:left;
+}
+
+.destacado_tittle{
+    margin-left: 0;
+    margin-right: 0;
+} 
+
+
